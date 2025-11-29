@@ -1,0 +1,10 @@
+Metodo,Arquivo,TempoMedio,TempoMin,TempoMax,NumTestes
+ParallelCPU,DonQuixote-388208.txt,55,13,38,113,15
+ParallelGPU,Dracula-165307.txt,9,80,8,13,15
+ParallelGPU,MobyDick-217452.txt,13,80,11,28,15
+ParallelCPU,Dracula-165307.txt,17,33,16,20,15
+ParallelCPU,MobyDick-217452.txt,24,53,21,38,15
+ParallelGPU,DonQuixote-388208.txt,24,00,18,50,15
+SerialCPU,MobyDick-217452.txt,27,00,20,75,15
+SerialCPU,DonQuixote-388208.txt,57,07,39,131,15
+SerialCPU,Dracula-165307.txt,18,53,15,32,15
