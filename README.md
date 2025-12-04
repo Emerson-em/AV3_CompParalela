@@ -2,6 +2,7 @@ Como rodar no IntelliJ:
 File -> Project Structure -> Modules -> Dependencies -> Clique no "+" -> JARs ou Directories -> clique no arquivo "jocl-2.0.4.jar" -> Apply e OK
 Por fim, basta rodar o "Main"
 
+Arquivo PDF do Relatório: [AV3_CompParalela.pdf](https://github.com/user-attachments/files/23930565/AV3_CompParalela.pdf)
 
 ANÁLISE DE DESEMPENHO DE CONTAGEM DE PALAVRAS EM AMBIENTES SERIAIS E PARALELOS UTILIZANDO CPU E GPU.
 
